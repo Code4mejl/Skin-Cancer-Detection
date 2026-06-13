@@ -1,31 +1,20 @@
-# 🩺 Skin Cancer Detection Using CNN
- ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?logo=python&logoColor=white) 
- ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.6+-ff6f00.svg?logo=tensorflow&logoColor=white) 
- ![Keras](https://img.shields.io/badge/Keras-2.6+-D00000.svg?logo=keras&logoColor=white) 
- ![NumPy](https://img.shields.io/badge/NumPy-1.x-013243.svg?logo=numpy&logoColor=white) 
- ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-013243.svg?logo=plotly&logoColor=white) 
- ![Streamlit](https://img.shields.io/badge/Streamlit-WebApp-ff4b4b?logo=streamlit)
-
-
----
-
-A deep learning model using Convolutional Neural Networks (CNN) to classify skin lesions as benign or malignant from dermoscopic images. 
-This project includes preprocessing, augmentation, training, evaluation, and prediction scripts.
-
----
-
-
-##  Project Overview
-Biomedical image segmentation plays a crucial role in **healthcare and research** by enabling precise identification of cell structures and medical regions of interest.  
-
-In this project, we:  
-- Built a custom CNN architecture for image classification.  
-- Trained on skin lesion datasets  
+# c 
 - Achieved strong prediction accuracy on malignant vs. benign images
 - Visualized training curves, evaluation metrics, and predictions
 - Added support for new image inference
 
 ---
+
+
+...
+
+## 🚀 Live Demo
+
+🔗 **Live App:** https://huggingface.co/spaces/Code4mejl/Skinn-Cancer-Detection
+
+> **Disclaimer:** This application is developed for educational and research purposes only. It should not be used as a substitute for professional medical advice, diagnosis, or treatment.
+
+
 
 ##  Features
 
