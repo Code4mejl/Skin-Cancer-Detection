@@ -1,12 +1,10 @@
-# c 
-- Achieved strong prediction accuracy on malignant vs. benign images
-- Visualized training curves, evaluation metrics, and predictions
-- Added support for new image inference
+🩺 Skin Cancer Detection Using CNN
 
----
+Python • TensorFlow • Keras • NumPy • Matplotlib • Streamlit
 
 
-...
+A deep learning model using Convolutional Neural Networks (CNN) to classify skin lesions as benign or malignant from dermoscopic images. This project includes preprocessing, augmentation, training, evaluation, prediction, and a live web application for real-time inference.
+
 
 ## 🚀 Live Demo
 
