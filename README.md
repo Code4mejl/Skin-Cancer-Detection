@@ -1,16 +1,23 @@
-🩺 Skin Cancer Detection Using CNN
-
-Python • TensorFlow • Keras • NumPy • Matplotlib • Streamlit
 
 
-A deep learning model using Convolutional Neural Networks (CNN) to classify skin lesions as benign or malignant from dermoscopic images. This project includes preprocessing, augmentation, training, evaluation, prediction, and a live web application for real-time inference.
 
+# 🩺 Skin Cancer Detection Using CNN
+
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-2.x-D00000?logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1.x-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-11557C?logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-WebApp-FF4B4B?logo=streamlit&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-Live_Demo-FFD21E?logo=huggingface&logoColor=black)
+
+A deep learning model using Convolutional Neural Networks (CNN) to classify skin lesions as benign or malignant from dermoscopic images. This project includes preprocessing, augmentation, training, evaluation, prediction, and deployment using Streamlit.
 
 ## 🚀 Live Demo
 
-🔗 **Live App:** https://huggingface.co/spaces/Code4mejl/Skinn-Cancer-Detection
+🔗 **Try the deployed application here:**  
+https://huggingface.co/spaces/Code4mejl/Skinn-Cancer-Detection
 
-> **Disclaimer:** This application is developed for educational and research purposes only. It should not be used as a substitute for professional medical advice, diagnosis, or treatment.
 
 
 
