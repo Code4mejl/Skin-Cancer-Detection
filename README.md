@@ -16,7 +16,7 @@ A deep learning model using Convolutional Neural Networks (CNN) to classify skin
 ## 🚀 Live Demo
 
 🔗 **Try the deployed application here:**  
-https://huggingface.co/spaces/Code4mejl/Skinn-Cancer-Detection
+https://code4mejl-skinn-cancer-detection.hf.space/
 
 
 
